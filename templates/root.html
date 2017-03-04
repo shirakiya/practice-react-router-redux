@@ -1,0 +1,8 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<div id='app'><strong>Loading...</strong></div>
+<script type="application/javascript">
+    window.appName = "{{ data.app_name }}";
+</script>
+{% endblock content %}

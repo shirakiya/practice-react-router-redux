@@ -1,0 +1,13 @@
+{
+  "presets": ["es2015", "es2016", "react"],
+  "plugins": [
+    "transform-es2015-destructuring",
+    "transform-object-rest-spread",
+    "babel-plugin-syntax-export-extensions",
+  ],
+  "env": {
+    "development": {
+      "presets": ["react-hmre"]
+    }
+  }
+}
