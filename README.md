@@ -1,4 +1,4 @@
-# react-router-redux-sample
+# practice-react-router-redux
 My practice for react-router-redux.
 
 
