@@ -1,5 +1,5 @@
 # practice-react-router-redux
-My practice for react-router-redux.
+My react-router-redux practice.
 
 
 # How to run
